@@ -59,8 +59,8 @@ main img{
 }
  #text1{
       width: 30%;
-      float: right;
-  }
+    margin-left: 700px;
+ }
   footer{
     background-color:#303030;
     height: 100px;}
